@@ -1,0 +1,20 @@
+{
+  "ocorrencias": [
+    {
+      "nsuId": "1234567890123456789",
+      "arrj": "BOL",
+      "idDda": "123A512312312312FAS1",
+      "numIdentcBaixa": "1234567890123456789",
+      "idOcor": "SOL12345678PXD202606230000001",
+      "dtHrEnvOcor": "2026-06-23T12:00:00-03:00",
+      "dtHrRespOcor": "2026-06-24T15:00:00-03:00",
+      "orgRespRes": "RFB",
+      "codParecer": "01",
+      "tpTrib": "CBS",
+      "vlTribEst": 10.02,
+      "descParecer": "Ocorrência respondida pelo órgão competente",
+      "orientSolic": "Consultar retorno da ocorrência para acompanhamento",
+      "idAprovEst": "APV20260623000100001"
+    }
+  ]
+}

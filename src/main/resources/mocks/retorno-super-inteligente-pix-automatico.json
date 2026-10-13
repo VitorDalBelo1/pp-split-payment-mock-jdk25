@@ -1,0 +1,19 @@
+{
+  "transacoes": [
+    {
+      "codMsg": "RSUP101",
+      "nsuId": "1234567890123456789",
+      "dtHrDisp": "2026-03-20T10:33:46-03:00",
+      "txId": "1234ABDOASD11231234ABDOASD112312345",
+      "vlInf": 10.02,
+      "vlCbsCorr": 10.02,
+      "vlIbsCorr": 10.02,
+      "vlCbsAberto": 10.02,
+      "vlIbsAberto": 10.02,
+      "docFiscal": "1234567890123456789B123A5678901234567891123412345",
+      "cnpjRaizPspRecInd": "87654321",
+      "cnpjRaizPspRecDir": "12345678",
+      "cnpjRec": "11444777000142"
+    }
+  ]
+}
